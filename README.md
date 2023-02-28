@@ -19,4 +19,5 @@
 - 4-й шаг - печать полученного итогового массива.
 
 Программа написана на основе блок-схемы:
+
 ![shortArray](https://github.com/MillaAlex/FinalWorkGBQuarter1/blob/main/shortArray.png)
